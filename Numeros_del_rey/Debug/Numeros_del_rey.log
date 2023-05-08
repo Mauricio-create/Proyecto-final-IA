@@ -1,0 +1,9 @@
+﻿  Numeros_de_rey.cpp
+C:\Users\mauri\source\repos\8Puzzle\Numeros_del_rey\Numeros_de_rey.cpp(69,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\mauri\source\repos\8Puzzle\Numeros_del_rey\Numeros_de_rey.cpp(126,9): warning C4244: 'return': conversión de '__int64' a 'float'; posible pérdida de datos
+C:\Users\mauri\source\repos\8Puzzle\Numeros_del_rey\Numeros_de_rey.cpp(131,18): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\mauri\source\repos\8Puzzle\Numeros_del_rey\Numeros_de_rey.cpp(182,29): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\mauri\source\repos\8Puzzle\Numeros_del_rey\Numeros_de_rey.cpp(243,67): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Source.cpp
+  Generando código...
+  Numeros_del_rey.vcxproj -> C:\Users\mauri\source\repos\8Puzzle\Debug\Numeros_del_rey.exe
